@@ -13,16 +13,16 @@ Step 2 :
 python3 app.py
 ```
 Now prompt to MedSpeak, it will help you 
+## Screenshots
+
+![Main Screen](Banner.png)
+
+
 ## Developers
 
 - [@Aleena24](https://github.com/Aleena24)
 - [@Arjgorithmic](https://github.com/Arjgorithmic)
 - [@Sneha-Pulse](https://github.com/Sneha-Pulse)
-
-
-## Screenshots
-
-![Main Screen](Banner.png)
 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
